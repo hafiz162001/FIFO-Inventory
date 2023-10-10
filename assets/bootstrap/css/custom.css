@@ -1,0 +1,29 @@
+
+	.login-box {
+		margin: 5% auto;
+	}
+
+	.login-page, .logo, .navbar {
+		background: rgb(58, 226, 7) !important;
+	}
+
+	.login-logo {
+		font-size: 30px;
+		margin-bottom: 20px;
+		color: rgb(162, 238, 232);
+	}
+
+	.login-box-body {
+		padding: 10px 20px 20px 20px !important;
+		background: rgb(255, 0, 200);
+	}
+
+	.login-box-body h3 {
+		font-weight: bold;
+	}
+
+	.login-box-body img {
+		display: block;
+		margin: 15px auto;
+	}
+
